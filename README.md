@@ -189,6 +189,22 @@ We have now successfully implemented a basic version of **Client-Side** routing.
 As we start learning about **React Router** we will start implementing
 **pushState()** within the context of a **React** app.
 
+### React Router: v5 and v6
+
+React Router released [version 6][] in November of 2021, and the new version has
+several changes to the way React Router works internally as well as how you can
+use it as a developer. Our curriculum teaches version 5 of React Router, since
+it's more widely used by the React community at this time. You can access the
+documentation for React Router v5 here:
+
+- [https://v5.reactrouter.com](https://v5.reactrouter.com)
+
+While the React community transitions from using v5 to v6, you'll likely come
+across blog posts and other resources that refer to both versions. Make sure to
+look for resources that refer to v5 of React Router for consistency with the
+syntax we cover in the curriculum. You're welcome to explore React Router v6 if
+you're curious! Just be aware of these changes.
+
 ## A Word About Accessibility
 
 The web was designed, from its inception, to be a platform for _everyone_,
@@ -204,7 +220,7 @@ React.
 
 ## Resources
 
-- [React Router Tutorial](https://reacttraining.com/react-router/web/guides/quick-start)
+- [React Router Tutorial](https://v5.reactrouter.com/web/guides/quick-start)
 - [Manipulating Browser History](https://developer.mozilla.org/en-US/docs/Web/API/History_API)
 
 [bp]: https://blog.usejournal.com/getting-started-with-web-accessibility-in-react-9e591fdb0d52
